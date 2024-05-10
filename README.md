@@ -48,7 +48,8 @@ while True:
 
 <H3> Output:</H3>
 
-![Screenshot 2024-04-27 110509](https://github.com/shoaib3136/Ex-8--AAI/assets/117919362/f397f64c-477c-4670-90aa-d9b6a7a60b35)
+![exp8](https://github.com/arunkumarsukdevchavan/Ex-8--AAI/assets/118343978/318b6e5c-c91e-4af9-b4b4-81252a144ce5)
+
 
 
 <H3> Result:</H3>
